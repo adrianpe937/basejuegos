@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <module name="basejuegos" />
+    <option name="PROGRAM_PARAMETERS" value="--module-path &quot;C:\Users\isard\Downloads\openjfx-23_windows-x64_bin-sdk\javafx-sdk-23\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics " />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
